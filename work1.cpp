@@ -1,4 +1,4 @@
-#include<iostream>			//This is for testing
+#include<iostream>			//This is for testing1
 using namespace std;
 void main() {
 	cout << "  1st term of 2020		\\45132114   Wanthanee Prachuabsupakij" << endl;
