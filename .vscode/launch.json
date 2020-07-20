@@ -5,13 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "C:\Users\Saharat Thongin\C++\work1\work1.cpp",
+            "name": "work1.cpp",
             "type": "cppdbg",
             "request": "launch",
-            "program": "enter program name, for example ${workspaceFolder}/a.exe",
+            "program": "enter program name, for example ${C:\\Users\\Saharat Thongin\\C++\\work1}/work1.",
             "args": [],
             "stopAtEntry": false,
-            "cwd": "${workspaceFolder}",
+            "cwd": "${C:\\Users\\Saharat Thongin\\C++\\work1}",
             "environment": [],
             "externalConsole": false,
             "MIMode": "gdb",

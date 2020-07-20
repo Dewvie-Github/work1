@@ -1,7 +1,7 @@
-#include<iostream>			//This is for testing1
+#include<iostream>			//This is for testing2
 using namespace std;
 void main() {
-	cout << "  1st term of 2020		\\45132114   Wanthanee Prachuabsupakij" << endl;
+	cout << "  1st term of 2020		\\6306021620191 Saharat Thongin" << endl;
 	cout << "--------------------------------------------------------------" << endl;
 	cout << "| Subject ID | Subject Name				| Score(100) | Grade |" << endl; 
 	cout << "--------------------------------------------------------------" << endl;
